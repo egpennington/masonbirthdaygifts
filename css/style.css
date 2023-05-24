@@ -102,6 +102,7 @@ h1, h2, h3, h4 p {
   background-image: url("../images/ronaldohappy.gif");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 #gift-img-hot:hover { background-image: url("../images/hot.gif"); }
