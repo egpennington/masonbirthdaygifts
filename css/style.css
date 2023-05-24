@@ -72,7 +72,7 @@ h1, h2, h3, h4 p {
 
 .gift-title {
   background: #fff3b0;
-  color: skyblue;
+  color: var(--primary-color);
   border-radius: 10px;  
   padding: 7px;
   width: 25rem;
