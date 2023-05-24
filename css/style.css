@@ -98,7 +98,10 @@ h1, h2, h3, h4 p {
 }
  
 
-#gift-img-happy:hover { background-image: url("../images/ronaldohappy.gif"); }
+#gift-img-happy:hover { 
+  background-image: url("../images/ronaldohappy.gif");
+  image-size: cover;
+}
 
 #gift-img-hot:hover { background-image: url("../images/hot.gif"); }
 
