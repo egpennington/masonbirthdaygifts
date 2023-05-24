@@ -73,8 +73,9 @@ h1, h2, h3, h4 p {
 .gift-title {
   margin-top: 0.9rem;
   background: #fff3b0;
-  border-radius: 5px;
+  border-radius: 10px;
   text-shadow: 2px 2px 5px #333;
+  padding: 7px;
 }
 
 .gift-hover {
