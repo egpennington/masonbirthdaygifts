@@ -100,7 +100,8 @@ h1, h2, h3, h4 p {
 
 #gift-img-happy:hover { 
   background-image: url("../images/ronaldohappy.gif");
-  object-fit: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 #gift-img-hot:hover { background-image: url("../images/hot.gif"); }
