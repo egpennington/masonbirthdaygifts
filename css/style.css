@@ -7,7 +7,6 @@
 
 body {
   text-align: center;
- /* background: linear-gradient(var(--secondary-color), var(--tertiary-color)); */
   background: var(--bubbles) no-repeat center center/cover;
   color: #fff;
   font-family: "Happy Monkey", cursive;
@@ -73,6 +72,9 @@ h1, h2, h3, h4 p {
 
 .gift-title {
   margin-top: 0.9rem;
+  background: #fff3b0;
+  border-radius: 5px;
+  text-shadow: 2px 2px 5px #333;
 }
 
 .gift-hover {
